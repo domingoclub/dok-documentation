@@ -1,0 +1,10 @@
+title: Dok
+description: documentation system
+introduction: "Dok, a low-tech tool that allows you to document (almost) everything"
+footer: "☼ 2021 — [GPL-3.0 License](https://github.com/antoinestudio/dok/blob/master/LICENSE)"
+navigation:
+  "Dok": "index"
+  "Content": "content"
+  "Getting started": "getting-started"
+  "About": "about"
+

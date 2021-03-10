@@ -158,7 +158,7 @@ a {
 .ts h1, .ts h2, .ts h3, .ts h4, .ts h5, .ts h6 {
   margin: 1em 0 0.5em 0; }
 
-.ts p, .ts ul, .ts ol, .ts .table, .ts .admonition {
+.ts p, .ts ul, .ts ol, .ts .table, .ts .admonition, .ts pre {
   margin-bottom: 1em; }
 
 .ts figure.md, .ts figure.lg, .ts video, .ts .embed-container {
@@ -309,8 +309,7 @@ img {
   margin-right: var(--size-sm); }
 
 .intro {
-  margin-bottom: var(--size-xl);
-  max-width: calc(var(--content-max-width) * 2); }
+  margin-bottom: var(--size-xl); }
   .intro small {
     display: block;
     margin-top: var(--size-sm); }
